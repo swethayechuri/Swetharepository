@@ -50,6 +50,11 @@
 <artifactId>testng</artifactId>
 <version>6.9.10</version>
 </dependency>
+
+<properties>
+<maven.compiler.source>14</maven.compiler.source>
+<maven.compiler.target>14</maven.compiler.target>
+</properties>
     
 </dependencies>
 
